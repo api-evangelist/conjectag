@@ -31,7 +31,7 @@ x-status: defunct
 x-status-reason: Acquired by Aconex (Mar 2016); Aconex acquired by Oracle (Dec 2017); no independent operation
 x-acquired-by: aconex
 x-reference: https://earlybird.com/companies/conjectag
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
