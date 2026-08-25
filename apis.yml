@@ -12,14 +12,13 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/conjectag.png
 name: Conjectag
-description: Conjectag (Conject AG / Conject Holding GmbH) was a Munich-based German construction
-  technology company founded in 2000 that provided cloud-based software for the built environment,
-  covering project management, collaboration, document control, and construction cost management for
-  the AEC (architecture, engineering, and construction) sector. It was surfaced as a historical
-  Earlybird Venture Capital portfolio company. Conject was acquired by the Australian construction
-  collaboration platform Aconex in March 2016, and Aconex was subsequently acquired by Oracle in
-  December 2017; the company no longer operates independently and publishes no live website or
-  developer/API surface. This profile is retained for network provenance rather than active enrichment.
+description: Conjectag (Conject AG / Conject Holding GmbH) was a Munich-based German construction technology company
+  founded in 2000 that provided cloud-based software for the built environment, covering project management, collaboration,
+  document control, and construction cost management for the AEC (architecture, engineering, and construction) sector.
+  It was surfaced as a historical Earlybird Venture Capital portfolio company. Conject was acquired by the Australian
+  construction collaboration platform Aconex in March 2016, and Aconex was subsequently acquired by Oracle in December
+  2017; the company no longer operates independently and publishes no live website or developer/API surface. This
+  profile is retained for network provenance rather than active enrichment.
 url: https://raw.githubusercontent.com/api-evangelist/conjectag/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -33,7 +32,7 @@ x-acquired-by: aconex
 x-reference: https://earlybird.com/companies/conjectag
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-08-21'
 tags:
 - Company
 - Construction
@@ -65,3 +64,13 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+common:
+- type: ParentCompany
+  url: https://apis.io/providers/oracle/
+  name: Oracle
+  x-relationship: acquisition
+  x-generated-by: oracle-family:2026-08-21
+  x-acquired: 2017
+x-parent: oracle
+x-relationship: acquisition
+x-acquired: 2017
