@@ -51,7 +51,7 @@ tags:
 - Software-as-a-Service
 - Project Management
 - Collaboration
-- Document-Management
+- Document Management
 - Defunct
 - Germany
 tags_raw:
@@ -64,6 +64,7 @@ tags_raw:
 - Document Management
 - Defunct
 - Germany
+- Document-Management
 apis: []
 maintainers:
 - FN: Kin Lane
