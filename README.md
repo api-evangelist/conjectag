@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Conjectag is a company surfaced as a portfolio company of earlybird and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: earlybird
+Conjectag (Conject AG / Conject Holding GmbH) was a Munich-based German construction technology company founded in 2000 that provided cloud-based software for the built environment, covering project management, collaboration, document control, and construction cost management for the AEC (architecture, engineering, and construction) sector. It was surfaced as a historical Earlybird Venture Capital portfolio company. Conject was acquired by the Australian construction collaboration platform Aconex in March 2016, and Aconex was subsequently acquired by Oracle in December 2017; the company no longer operates independently and publishes no live website or developer/API surface. This profile is retained for network provenance rather than active enrichment.
+
+**Areas:** Company · Construction · Construction Technology · Software-as-a-Service · Project Management · Collaboration · Document Management · Defunct · Germany
+
+## Conjectag on APIs.io (historical record)
+
+Everything profiled for Conjectag is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/conjectag/](https://apis.io/providers/conjectag/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Conjectag: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/conjectag/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
